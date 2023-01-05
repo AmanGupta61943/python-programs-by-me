@@ -1,0 +1,5 @@
+p=eval(input("enter first number"))
+q=eval(input("enter secon number"))
+r=eval(input("enter third number"))
+intrest=p*q*r/100
+print("final number",intrest)
